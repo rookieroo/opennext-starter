@@ -1,11 +1,11 @@
 {
-  "name": "turborepo-next-shadcn-ui",
+  "name": "opennext-starter",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gmickel/turborepo-shadcn-nextjs"
+    "url": "https://github.com/rookieroo/opennext-starter"
   },
   "keywords": [
     "starter",
