@@ -1,0 +1,14 @@
+# Load .env.development* files when running `wrangler dev`
+NEXTJS_ENV=development
+
+# blog
+
+
+# commerce
+COMPANY_NAME="Vercel Inc."
+TWITTER_CREATOR="@vercel"
+TWITTER_SITE="https://nextjs.org/commerce"
+NEXT_PUBLIC_SITE_NAME="Next.js Commerce"
+SHOPIFY_REVALIDATION_SECRET=""
+SHOPIFY_STOREFRONT_ACCESS_TOKEN=""
+SHOPIFY_STORE_DOMAIN="[your-shopify-store-subdomain].myshopify.com"
